@@ -2,6 +2,7 @@
 
 
 A mobile application that prompts a user for a company stock symbol and show the summary data, such as the stock price and changes and the lates news for the company’s stock. It will also show the information of some companies’, in the same industry, stocks and compare how the selected company’s stock is perform against competitors. 
+https://youtu.be/v6w6_tzZSh8 Demo
 
 ## Project Topics: Mobile to Cloud application
 Users will access the application via a native Android application. **You do not need to have a browser-based interface for your application** (only for the Dashboard). The Android application should communicate with your web service deployed to the cloud. Your web service is where the business logic for your application should be implemented (including fetching information from the 3rd party API).
